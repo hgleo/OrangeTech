@@ -24,5 +24,7 @@ calculaGasto(dist,precoCombust){
 
 const Polo = new Carro('Polo','Prata',13);
 const Tcross = new Carro('Tcross','Prata',12);
+const Corola = new Carro('Corola','Preto',10);
 Polo.calculaGasto(499,4.30);
 Tcross.calculaGasto(499,4.30);
+Corola.calculaGasto(499,4.30);
